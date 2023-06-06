@@ -1,3 +1,4 @@
+
 #right {
     float: right;
     width: 49%;
@@ -16,9 +17,10 @@ header {
 }
 
 h1 {
-    padding: 10px 0px 10px 10px;
+    padding: 10px 10px 10px 10px;
     background-color: rgb(0, 0, 0, 0.7);
     border-radius: 20px;
+    text-align: center;
 }
 
 h2 {
@@ -29,7 +31,8 @@ body {
     background-image: url(../images/manga.jpg);
     background-size: cover;
     background-repeat: no-repeat;
-    color: white
+    color: white;
+    font-family: 'Ubuntu Condensed', sans-serif;
 }
 
 div {
@@ -44,7 +47,7 @@ div {
     margin: auto;
 }
 
-p {
+h3 {
     width: 90%;
     margin: auto;
     padding: 20px 0px;
@@ -54,5 +57,9 @@ p {
     display: inline-block;
     margin: 10px 10px;
     width: 32%;
+}
+
+a {
+    color: white;
 }
 
