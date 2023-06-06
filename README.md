@@ -8,5 +8,13 @@
 
 * Introduce newcomers to manga
 * Get people involved with suggestions and feedback
+  
+Technologies used
+
+* HTML
+* CSS
+
+Credits
+
 
  <https://8000-dinglebinky-ttm-34si4z0gqh.us2.codeanyapp.com>
