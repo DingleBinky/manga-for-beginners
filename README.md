@@ -16,9 +16,11 @@ Technologies used
 
 Credits
 
+    I used some code from Love Running to help fix my footer issue
+
     Background image <https://wallpaperaccess.com/parchment>
 
-    Images used in index.html
+    Images used
   
 * One Piece <https://wallpaperaccess.com/manga-one-piece-1920x1080>
 * Tokyo Ghoul <https://wallpaperaccess.com/tokyo-ghoul-manga>
@@ -29,3 +31,4 @@ Credits
 * Bleach <https://wallpaperaccess.com/bleach-manga>
 * PPPPPP <https://danbooru.donmai.us/posts/5697365>
 * Jojo's Bizarre Adventure <https://wallpaperaccess.com/jojo-manga>
+* Black Clover <https://wallpaperaccess.com/black-clover-manga>
