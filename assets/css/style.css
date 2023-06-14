@@ -20,6 +20,18 @@
     margin: auto;
 }
 
+.intro {
+    text-align: center;
+    background-color: rgb(0, 0, 0, 0.7);
+    border-radius: 20px;
+    padding: 5px;
+    margin: 20px 10px;
+}
+
+#intro {
+    text-align: center;
+}
+
 #container {
     border: 0px;
     margin: 0px 0px 500px 0px;
@@ -71,6 +83,14 @@ a {
     color: white;
 }
 
+a:link {
+    text-decoration: none;
+}
+
+a:hover {
+    color: indigo;
+}
+
 hr {
     opacity: 0%;
 }
@@ -78,15 +98,18 @@ hr {
 /* footer */
 
 footer {
-    height: 150px;
+    height: 100px;
+    background-color: rgb(0, 0, 0, 0.7);
+    border-radius: 20px;
 }
 
 .social {
     text-align: center;
+    font-size: 240%;
 }
 
 li {
     list-style-type: none;
     display: inline;
-    width: 100%;
+    margin: 150px;
 }
