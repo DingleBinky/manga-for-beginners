@@ -17,7 +17,7 @@
 .center {
     display: block;
     width: 90%;
-    margin: auto;
+    margin: 10px auto;
 }
 
 .intro {
@@ -30,12 +30,6 @@
 
 #intro {
     text-align: center;
-}
-
-#container {
-    border: 0px;
-    margin: 0px 0px 500px 0px;
-    padding: 0px;
 }
 
 header {
@@ -112,4 +106,23 @@ li {
     list-style-type: none;
     display: inline;
     margin: 150px;
+}
+
+/* gallery */
+
+.container {
+    width: 19.8%;
+    display: inline-block;
+}
+
+.images {
+    background-color: rgb(0, 0, 0, 0.7);
+    border-radius: 20px;
+}
+
+
+
+div > img {
+    max-height: 90%;
+    max-width: 90%;
 }
