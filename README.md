@@ -2,25 +2,36 @@
 
  Introduction
 
-    This is my first project for Code Institute. Reading manga has always been a favorite passtime of mine, it has consistently helped me with my mental health and has brought me most of the joy in my adult life which is the reason I decided to make this my project. With this website I aim to give newcomers a variety of incredible manga so that they too can come to appreciate and love manga as I do.
+This is my first project for Code Institute. Reading manga has always been a favorite passtime of mine, it has consistently helped me with my mental health and has brought me most of the joy in my adult life which is the reason I decided to make this my project. With this website I aim to give newcomers a variety of incredible manga so that they too can come to appreciate and love manga as I do.
 
- Website Goals
+## Website Goals
+
+User Goals:
 
 * Introduce newcomers to manga
-* Get people involved with suggestions and feedback
-  
-Technologies used
+* Get involved with suggestions and feedback
+
+Author Goals:
+
+* Gain experience in creating and designing a website
+* Achieve a pass or higher for the first project for Code Institute
+
+## Design
+
+My original design was to go with a comic style background with some manga panels which was changed later to a basic parchment background because the manga panels made the screen look cluttered, I was gonna go for a gray transparent background with white text for the main component of the website but later changed it to a black transparent background as it was easier on the eyes. I created 2 sides for the list of manga to minimize the amount of scrolling, on smaller screens this was unavoidable
+
+## Technologies used
 
 * HTML
 * CSS
 
-Credits
+## Credits
 
-    I used some code from Love Running to help fix my footer issue
+I used some code from Love Running to help fix my footer issue
 
-    Background image <https://wallpaperaccess.com/parchment>
+Background image <https://wallpaperaccess.com/parchment>
 
-    Images used
+Images used
   
 * One Piece <https://wallpaperaccess.com/manga-one-piece-1920x1080>
 * Tokyo Ghoul <https://wallpaperaccess.com/tokyo-ghoul-manga>
