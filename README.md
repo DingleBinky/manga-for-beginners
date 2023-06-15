@@ -32,7 +32,7 @@ this issue I switched 2 manga around from both floats to balance out the sides, 
 
 ## Credits
 
-I used some code from Love Running to help fix my footer issue.
+I used some code from Love Running to help with my footer.
 I used some code from <https://dirask.com/posts/CSS-disable-background-image-scrolling-1bGZlD> to help me fix up my background image from going off the page.
 
 Background image <https://wallpaperaccess.com/parchment>
