@@ -53,3 +53,8 @@ Gallery
 * Yu-Gi-Oh! <https://wallpaperaccess.com/yu-gi-oh-yami-yugi> <https://wallpaperaccess.com/yu-gi-oh-gx> <https://wallpaperaccess.com/yu-gi-oh> <https://wallpaperaccess.com/yu-gi-oh-zexal>
 * Demon Slayer <https://wallpaperaccess.com/demon-slayer-hd>
 * Naruto <https://wallpaperaccess.com/naruto-hd>
+* One Piece <https://wallpaperaccess.com/one-piece-hd>
+* Bleach <https://wallpaperaccess.com/bleach-hd>
+* PPPPPP <https://otakukart.com/062029/pppppp-chapter-51-release-date-brilliant-lucky-otogami/> <https://dereksmcgrath.wordpress.com/2022/09/04/sunday-morning-manga-for-september-4-2022/> <https://www.siliconera.com/pppppp-manga-ends-last-chapter-released/> <https://www.drcommodore.it/2023/02/22/pppppp-concluso-prossimo-capitolo/>
+* Jojo's Bizarre Adventure <https://wallpaperaccess.com/jojo-hd>
+* Black Clover <https://wallpaperaccess.com/black-clover-anime-hd>
