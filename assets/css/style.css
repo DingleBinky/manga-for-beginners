@@ -6,7 +6,7 @@ body {
     color: white;
     font-family: 'Ubuntu Condensed', sans-serif;
     padding: 0px;
-    margin: 0px;
+    margin: 10px;
 }
 
 .right {
@@ -92,25 +92,6 @@ hr {
     opacity: 0%;
 }
 
-/* footer */
-
-footer {
-    height: 100px;
-    background-color: rgb(0, 0, 0, 0.7);
-    border-radius: 20px;
-}
-
-.social {
-    text-align: center;
-    font-size: 240%;
-}
-
-li {
-    list-style-type: none;
-    display: inline;
-    margin: 150px;
-}
-
 /* gallery */
 
 .container {
@@ -128,4 +109,62 @@ li {
 div > img {
     max-height: 90%;
     max-width: 90%;
+}
+
+/* suggestion */
+
+label {
+    font-size: x-large;
+}
+
+textarea {
+    font-size: large;
+}
+
+.suggest {
+    display: block;
+    margin: 10px;
+}
+
+.radio {
+    margin: 0px 20px;
+}
+
+#suggest {
+    height: 350px;
+    width: 600px;
+    margin: 20px 20px;
+}
+
+#container {
+    background-color: rgb(0, 0, 0, 0.7);
+    border-radius: 20px;
+    padding: 20px;
+}
+
+#radioparagraph {
+    width: 100%;
+    margin: 10px 0px;
+    padding: 35px 0px 0px 10px;
+    font-size: x-large;
+    text-align: left;
+}
+
+/* footer */
+
+footer {
+    height: 100px;
+    background-color: rgb(0, 0, 0, 0.7);
+    border-radius: 20px;
+}
+
+.social {
+    text-align: center;
+    font-size: 240%;
+}
+
+li {
+    list-style-type: none;
+    display: inline;
+    margin: 150px;
 }

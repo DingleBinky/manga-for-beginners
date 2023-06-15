@@ -33,7 +33,12 @@ this issue I switched 2 manga around from both floats to balance out the sides, 
 ## Credits
 
 I used some code from Love Running to help with my footer.
+
 I used some code from <https://dirask.com/posts/CSS-disable-background-image-scrolling-1bGZlD> to help me fix up my background image from going off the page.
+
+I used code from Love Running to help me with the start of the Suggestion page.
+
+I used code from <https://stackoverflow.com/questions/11315570/align-radio-button-one-below-the-other> to help me better arrange my buttons for the feedback part of the Suggestion page.
 
 Background image <https://wallpaperaccess.com/parchment>
 
