@@ -25,9 +25,15 @@ My original design was to go with a comic style background with some manga panel
 * HTML
 * CSS
 
+## Challenges
+
+I had a problem with my footer as it was stuck to the right side underneath my right float, this was because my left float was bigger than the right so to fix
+this issue I switched 2 manga around from both floats to balance out the sides, originally One Piece was #10 and Solo Levelling was #5 since One Piece had the most amount of text it seemed the logical choice to switch with another.
+
 ## Credits
 
-I used some code from Love Running to help fix my footer issue
+I used some code from Love Running to help fix my footer issue.
+I used some code from <https://dirask.com/posts/CSS-disable-background-image-scrolling-1bGZlD> to help me fix up my background image from going off the page.
 
 Background image <https://wallpaperaccess.com/parchment>
 
