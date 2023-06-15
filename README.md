@@ -1,17 +1,17 @@
 # 10 Manga for beginners
 
- Introduction
+## Introduction
 
 This is my first project for Code Institute. Reading manga has always been a favorite passtime of mine, it has consistently helped me with my mental health and has brought me most of the joy in my adult life which is the reason I decided to make this my project. With this website I aim to give newcomers a variety of incredible manga so that they too can come to appreciate and love manga as I do.
 
 ## Website Goals
 
-User Goals:
+### User Goals
 
 * Introduce newcomers to manga
 * Get involved with suggestions and feedback
 
-Author Goals:
+### Author Goals
 
 * Gain experience in creating and designing a website
 * Achieve a pass or higher for the first project for Code Institute
@@ -31,7 +31,9 @@ I used some code from Love Running to help fix my footer issue
 
 Background image <https://wallpaperaccess.com/parchment>
 
-Images used
+### Images
+
+Index
   
 * One Piece <https://wallpaperaccess.com/manga-one-piece-1920x1080>
 * Tokyo Ghoul <https://wallpaperaccess.com/tokyo-ghoul-manga>
@@ -43,3 +45,11 @@ Images used
 * PPPPPP <https://danbooru.donmai.us/posts/5697365>
 * Jojo's Bizarre Adventure <https://wallpaperaccess.com/jojo-manga>
 * Black Clover <https://wallpaperaccess.com/black-clover-manga>
+
+Gallery
+
+* Solo Levelling <https://wallpaperaccess.com/solo-leveling-hd>
+* Tokyo Ghoul <https://wallpaperaccess.com/tokyo-ghoul-hd>
+* Yu-Gi-Oh! <https://wallpaperaccess.com/yu-gi-oh-yami-yugi> <https://wallpaperaccess.com/yu-gi-oh-gx> <https://wallpaperaccess.com/yu-gi-oh> <https://wallpaperaccess.com/yu-gi-oh-zexal>
+* Demon Slayer <https://wallpaperaccess.com/demon-slayer-hd>
+* Naruto <https://wallpaperaccess.com/naruto-hd>
