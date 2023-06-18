@@ -262,3 +262,19 @@ li {
         display: block;
     }
 }
+
+@media screen and (max-width: 500px) {
+
+    .nav {
+        width: 20%;
+    }
+
+    .left {
+        margin: auto;
+    }
+
+    .social > ul {
+        font-size: 70%;
+    }
+
+}
