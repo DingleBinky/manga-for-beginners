@@ -236,7 +236,7 @@ li {
 
 @media screen and (max-width: 800px) {
     .nav {
-        width: 29%;
+        width: 28%;
     }
 
     .right {
@@ -252,7 +252,7 @@ li {
     }
 
     #suggest {
-        width: 540px;
+        width: 90%;
     }
 }
 
@@ -260,6 +260,10 @@ li {
     .container {
         width: 100%;
         display: block;
+    }
+
+    #suggest {
+        width: 90%
     }
 }
 
