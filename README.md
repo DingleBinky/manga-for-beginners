@@ -40,7 +40,9 @@ I used code from Love Running to help me with the start of the Suggestion page.
 
 I used code from <https://stackoverflow.com/questions/11315570/align-radio-button-one-below-the-other> to help me better arrange my buttons for the feedback part of the Suggestion page.
 
-Background image <https://wallpaperaccess.com/parchment>
+I used Love Running to help me start media queries.
+
+Background image for all 3 pages <https://wallpaperaccess.com/parchment>
 
 ### Images
 
