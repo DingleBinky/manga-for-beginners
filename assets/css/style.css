@@ -282,4 +282,8 @@ li {
         font-size: 70%;
     }
 
+    #suggest {
+        width: 90%
+    }
+
 }
