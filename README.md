@@ -6,7 +6,7 @@ This is my first project for Code Institute. Reading manga has always been a fav
 
 ## Responsiveness
 
-<img src="assets/images/response.PNG">
+[Responsive screenshot](assets/images/response.PNG)
 
 ## Website Goals
 
