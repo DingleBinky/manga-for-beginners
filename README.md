@@ -24,6 +24,20 @@ This is my first project for Code Institute. Reading manga has always been a fav
 
 My original design was to go with a comic style background with some manga panels which was changed later to a basic parchment background because the manga panels made the screen look cluttered, I was gonna go for a gray transparent background with white text for the main component of the website but later changed it to a black transparent background as it was easier on the eyes. I created 2 sides for the list of manga to minimize the amount of scrolling, on smaller screens this was unavoidable
 
+## Features
+
+### Index
+
+The home page is the main component of the website, it contains the manga I chose to use as the purpose of the website. Each manga on the list has my best attempt at a brief explanation of them and an accompanying image to give each manga a feeling of variety and how much each one differs from the other.
+
+### Gallery
+
+I decided to create a gallery page as a sort of extension for each manga, so that people can have a look at a number of art before or after they decide to read the home page. Art is a big part of manga, and since humans devour with their eye, I thought a gallery page would be a good addition or alternative.
+
+### Suggestion/Feedback
+
+There are thousands of different manga out there and I have not come close to reading them all, therefore I created this suggestion page for those with recommendations who would be inclined to share them and asd more variety to the website as time goes on and I have also added an optional feedback section for the purposes of determining if the website has helped people.
+
 ## Technologies used
 
 * HTML
