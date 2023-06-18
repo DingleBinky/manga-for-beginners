@@ -4,6 +4,10 @@
 
 This is my first project for Code Institute. Reading manga has always been a favorite passtime of mine, it has consistently helped me with my mental health and has brought me most of the joy in my adult life which is the reason I decided to make this my project. With this website I aim to give newcomers a variety of incredible manga so that they too can come to appreciate and love manga as I do.
 
+## Responsiveness
+
+<img src="assets/images/response.PNG">
+
 ## Website Goals
 
 ### User Goals
@@ -24,11 +28,14 @@ My original design was to go with a comic style background with some manga panel
 
 * HTML
 * CSS
+* Snipping Tool
 
 ## Challenges
 
 I had a problem with my footer as it was stuck to the right side underneath my right float, this was because my left float was bigger than the right so to fix
 this issue I switched 2 manga around from both floats to balance out the sides, originally One Piece was #10 and Solo Levelling was #5 since One Piece had the most amount of text it seemed the logical choice to switch with another.
+
+I had a problem with my background image. On the index page it would be zoomed in a blurred and I did not know how to fix this as it was using the same CSS as the other pages but the other pages did not have this problem, so I searched for a solution on google and came across a piece of code that fixed my issue (I have put a link to the codes origin in the credits).
 
 ## Credits
 
@@ -41,6 +48,8 @@ I used code from Love Running to help me with the start of the Suggestion page.
 I used code from <https://stackoverflow.com/questions/11315570/align-radio-button-one-below-the-other> to help me better arrange my buttons for the feedback part of the Suggestion page.
 
 I used Love Running to help me start media queries.
+
+I screenshotted image for responsiveness from <https://amiresponsive.co.uk/>
 
 Background image for all 3 pages <https://wallpaperaccess.com/parchment>
 
